@@ -31,7 +31,7 @@
 <p><b>Cloud & Full-Stack Developer · B.Tech CS @ VIT Bhopal</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yasharyan90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasharyan90/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YashAryan90-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YashAryan90)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YashAryan90-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.linkedin.com/in/yasharyan90/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-yasharyan90-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yasharyan90)
 [![Email](https://img.shields.io/badge/Email-yasharyanchunar90-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasharyanchunar90@gmail.com)
 
@@ -83,7 +83,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yasharyan90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/yasharyan90" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/YashAryan90" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/yasharyan90/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.geeksforgeeks.org/user/yasharyanno80" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/yasharyan90" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="mailto:yasharyanchunar90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
