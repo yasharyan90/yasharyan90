@@ -5,37 +5,73 @@
 </div>
 
 ```ansi
-[90m@@@@@@@@*+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;36myasharyan90[0m[37m@[0m[1;36mvit-bhopal[0m
-[90m@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [90m----------------------------[0m
-[90m@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mOS[0m[90m......................[0m Windows 11 / Ubuntu (WSL2)
-[90m@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mHost[0m[90m....................[0m VIT Bhopal (B.Tech CS)
-[90m@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mSpecialization[0m[90m..........[0m Cloud Computing & Automation
-[90m@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mKernel[0m[90m..................[0m Batch of 2028
-[90m@@@@@@@@@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mIDE[0m[90m.....................[0m VS Code, IntelliJ IDEA
-[90m@@@@@@@@@@@@@%%%%%%%@@@@%%%@@@@@@@@@@@@@@@@@@@[0m   
-[90m@@@@@@@@@@@@@@@%%%#%@%#*+====+*#%@@@@@@@@@@@@@[0m   [1;33mLang.Core[0m[90m...............[0m Java, C++, Python, SQL
-[90m@@@@@@@@@@@@@@@@%*+#*++*=----::-=#@@@@@@@@@@@@[0m   [1;33mLang.Web[0m[90m................[0m React.js, Node.js, Express.js
-[90m@@@@@@@@@@@@@@@@@+*+-=**#+--:::--=*@@@@@@@@@@@[0m   [1;33mLang.Cloud[0m[90m..............[0m Docker, Kubernetes, AWS
-[90m@@@@@@@@@@@@@@@@@#+---+*#%*=:::::::-=+#@@@@@@@[0m   [1;33mLang.Human[0m[90m..............[0m English, Hindi
-[90m@@@@@@@@@@@@@@@@@*=--::--=+*=::::::--+%@@@%@@@[0m   
-[90m@@@@@@@@@@@@@@@@#+=-::::----:-*#*+++*%%%%%%@@@[0m   [1;33mContact.Email[0m[90m...........[0m yasharyanchunar90@gmail.com
-[90m@@@@---===+@@@%@*+=-:::-=-::::-+++=#%%%%%#%@@@[0m   [1;33mContact.LinkedIn[0m[90m........[0m linkedin.com/in/yasharyan90
-[90m@@@# .... :@@%+%#+==+==++-:::::::-*%%%%%##@@@@[0m   [1;33mContact.LeetCode[0m[90m........[0m leetcode.com/u/YashAryan90
-[90m@@@= ..... +@%=*%*===++++*-:.::-=#%%%%####@@@@[0m   [1;33mContact.Codeforces[0m[90m......[0m codeforces.com/profile/yasharyan90
-[90m@@@: ..    .#@==#%+--=====+--=+#%%%%%#***#@@@@[0m   
-[90m@@%...      :%*:-+*+-----=+*#%%%%%%%#****%@@@@[0m   [1;35mGitHub Stats[0m
-[90m@@+ .        :#=:--=+=*#%%%%%%%%%%%******@@@@@[0m   [1;33mRepos[0m[90m...................[0m [1;32mauto[0m  |  Stars: auto  |  Followers: auto
-[90m@@-           .==-:--+@@@%%%%%%%@%#*****#@@@@@[0m   [1;33mDSA Solved[0m[90m..............[0m [1;32m250+[0m (LeetCode + GeeksforGeeks)
-[90m@@.             :-+*#@@@#%%%%%@@%##*#***#@@@@@[0m   [1;33mCertifications[0m[90m..........[0m 5 (Google Cloud, Coursera, NPTEL)
-[90m@#                .:-++:.=@@%@%+=*#***++%@@@@@[0m   
-[90m@=                      ..*@@@#-:=+**=+*@@@@@@[0m   
-[90m@:                     ...:%@#*****+=++*@@@@@@[0m   
-[90m%.                     ... :****+++=+++#@@@@@@[0m   
-[90m+                      ..   -*++++++++=%@@@@@@[0m   
-[90m:                           .++++++++-+@@@@@@@[0m   
-[90m*++=--::....                 =+++++=-=*@@@@@@@[0m   
-[90m@@@@@@@@@@%%##**+==--::....  -+====-=-#@@@@@@@[0m   
-[90m@@@@@@@@@@@@@@@@@@@@@@@@%%##*###*+=+==@@@@@@@@[0m   
+[90m$$$$$$$$$$$$$$$$b[||jBBM8h*#MW&8%B@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$[0m   [1;36myasharyan90[0m[37m@[0m[1;36mvit-bhopal[0m
+[90m$$$$$$$$$$$$$$$$c]||)c88$ampqqpdbkhaao##MWW&8%BBB@@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$[0m   [90m----------------------------[0m
+[90m$$$$$$$$$$$$$$$$|{1\t)C$$$hpbdbbkhhhaaooooo*##MMMMMMWWW&&&&888%%BBB@@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$[0m   [1;33mOS[0m[90m......................[0m Windows 11 / Ubuntu (WSL2)
+[90m$$$$$$$$$$$$$$$#_|U/\r{q$$@ddbbkhhhaoo***##MMWWWWWWWWWWWWWWWMMMMMMMMMMMW&W&&W&&888%%BB@@$$$$$$$$$$$$[0m   [1;33mHost[0m[90m....................[0m VIT Bhopal (B.Tech CS)
+[90m$$$$$$$$$$$$$$$q|Jv|f)n&$$$%dkhhhhaoo***##MMMWWWWWWWWWWWWWWWWWWWWWWWMMM&W#&M##*********####MMMW&&&88[0m   [1;33mSpecialization[0m[90m..........[0m Cloud Computing & Automation
+[90m$$$$$$$$$$$$$$$bcf\(/O$$$$$$&dhhaaoo***##MMMWWWWWWWWWWWWWWWWWWWWWWWMMWWW&WMMMM#M############******o*[0m   [1;33mKernel[0m[90m..................[0m Batch of 2028
+[90m$$$$$$$$$$$$$$@)(\1zW$$$$$$$$#baaoo***###MMMWWWWWWWWWWWWWWWWWWWWWWWWWWWMMMMMM#####################*&[0m   [1;33mIDE[0m[90m.....................[0m VS Code, IntelliJ IDEA
+[90m$$$$$$$$$$$$$$a[{/b$$$$$$$$$$$*aoo***###MMMMWWWWWWWWWWWWWWWWWWWWWWWWWMWMMMMMMMMMM#################*B[0m   
+[90m$$$$$$$$$$$$$$Q-CB$$$$$$$$$$$$$oo***####MMMMWWMWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMM#MMMM####M##$[0m   [1;33mLang.Core[0m[90m...............[0m Java, C++, Python, SQL
+[90m$$$$$$$$$$$$$$8#$$$$$$$$$$$$$$$Bo**########MMMWWWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMM###MMMMMMM#M#W$[0m   [1;33mLang.Web[0m[90m................[0m React.js, Node.js, Express.js
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8o#####*o****#MMMWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMM#M*%$[0m   [1;33mLang.Cloud[0m[90m..............[0m Docker, Kubernetes, AWS
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&*##*oooooo***##MMWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMM#@$[0m   [1;33mLang.Human[0m[90m..............[0m English, Hindi
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W******ooooo****#MMMWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMWWWWMMMWMMM$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$oaaooo**ooooooo**##MMMWWWWWWMMMMMWWWWWWMMWMMMMMMMMWWWWWWWWWWW#&$$[0m   [1;33mContact.Email[0m[90m...........[0m yasharyanchunar90@gmail.com
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@#aaaaaaao**oo#WM#MMM#M&B@@@%%8&&&&WW&&WW&WMMMMWWWWWWMWWWWWWWWWMB$$[0m   [1;33mContact.LinkedIn[0m[90m........[0m linkedin.com/in/yasharyan90
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8aaaahhaaaaao#M@$@@@$$$$$$$$$$@$$$$$@BB%@%B@8&WWWM@$$B8&WMMWWWWWM$$$[0m   [1;33mContact.LeetCode[0m[90m........[0m leetcode.com/u/YashAryan90
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@MhaaahhhhhaaMB$$$$$$$$$$$$$$$$$$@$$$$$@@@@@$$@@@%&&%%@BB%%&&WMMMMW$$$[0m   [1;33mContact.Codeforces[0m[90m......[0m codeforces.com/profile/yasharyan90
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%oaooaaaahhaaW$$$$$$$$$$$$$@@$$$$$$@@$$$$$$$$B@$$$$@BB%8%8BBB%8&&&M8$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$@MaooooooaaaaaaB$$$$$$$$$$$$BB$$$$@$$$$$$$$$$$@$$$$$$$@8BBBBM&8%88&8W@$$$[0m   [1;35mGitHub Stats[0m
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$%oaoooooooaaaohM$$$$$$$$$$$$$@@@B8@$$$$$$@@$$$$$@B@$$$$$$B%@$8MMW&&&WM$$$$[0m   [1;33mRepos[0m[90m...................[0m [1;32mauto[0m  |  Stars: auto  |  Followers: auto
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$Maooooooooaaaaoh8$$$$$$$$$$@@$$@@$B&%8&%$$BB@$$@8B$BW@$$$$$@%BB&WWMMWM&$$$$[0m   [1;33mDSA Solved[0m[90m..............[0m [1;32m250+[0m (LeetCode + GeeksforGeeks)
+[90m$$$$$$$$$$$$$$$$$$$$$$$%*aoooooooooaaaaaaW$$$$$$$$$$$$$BB$$@@@BB@@BBBB@@%B$$8%$$$$$$$$$$%&WWWW#%$$$$[0m   [1;33mCertifications[0m[90m..........[0m 5 (Google Cloud, Coursera, NPTEL)
+[90m$$$$$$$$$$$$$$$$$$$$$$%&&#ooooooooaaaaaaaa@$$@$$$@8#oakkW%8W&@$$$$$B8%@$$$$$$$$$$$$$B@@B8&&WWWM@$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$BM#WM#****oooaaaahaoaM$@$$$&pZCzvunncXJLLOqkM%B&*h&@$$$@B8%@$$@$@8BB888B&WW$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$%8W#*****ooooaaaa*oqq@$$%kOUzvurfttf////\|\trzQoMOCb8$$$$@%8BB$@B%B@B%@$@&8$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$$$$@B%&M#oooaahaoCuzM$%bUzvnnxrt\\\||(1{{[]][]{tYdmko8B$$@8&8W%$B%BBB@@B8%$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$@$$$$$$$$$$$@B#hahohn|nwBdYvcczXvf||\\|)1{}[]]?-__-?-)rXd&&B@@@8%&&%@$@%8B@B8%$$$$$$[0m   
+[90m$$$$$$$$$$$$$$@B$$$$$$$$$$$@B$8#aad/?/kkXxjjnzY0qOU/]{1{}[]?--_+~~+_?{}fZ*@BBBB%8WW8@$$$$$$$$@$$$$$$[0m   
+[90m$$$$$$$$$$$$$B@$$$$$$$$$$$B@$$$$@&n[cdQrt\11txxrrCoan]+-[[?-+~<~~~++1{(j1ubMB@@@@%%88B%%@$$$B%$$$$$$[0m   
+[90m$$$$$$$$$$$B8$$$$$$$$$$$@8B$$$$$$k/u*Jxf(}[[(vOOzrnp&qu1-[[-~<<<<~+?)?_)~>]rZbo#W&&W&WWB@%88M%$$$$$$[0m   
+[90m$$$$$$$$$$88$$$$$$$$$$$%&@$$$$$$$wOMXvf1}}[[{jQbZkOvQoMQ\---~>i>>>~~]]~-1_+<+}\fjuuQ&$$BBB@@&$$$$$$$[0m   
+[90m$$$$$$$$BWB$$$$$$$$$$@&8$$$$$$$$$@oJvj|{}[?--[(/\Q#bUCqhhQt?~<>>>><<>_<><_+]?]]}{\fY*@8$$$BM#$$$$$$$[0m   
+[90m$$$$$$$$M@$$$$$$$$$$%&B$$$$$$$$$$&LYx/)}[]-_++-]{}1/(xQYzmOXt?_~~<><>><>>>~-][}{)jXb@BB%&M*a&$$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$@8$$$$$$$$$$$@kUcx/1{}]-+~<~+_---]?{(fnvu/}??]--+i!i~~~_?[}{)\CMB8%MaaooaB$$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$@#pXxvr){}?--+~~~~+~_?}}{(({-_?{|jvULCuf\|}_?[[)\JM#hhaaooooo$$$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$@@$$$$$$$$$$$$$&hQcrt|1}[?-_~~~<~_-[{1{{{}+i~]{{cLbqOQOZqpwY0Yuq*hhaaaaaaoha$$$$$$$$[0m   
+[90m$$$$$$$@@$$$$$B$$$&*8$$$$$$$$8BMqJXr/|1}[?_~~<~+-[|t/((1}+!>_-]?{|CopXx\(fnuuhoahhhhaaaaoaZ*$$$$$$$$[0m   
+[90m$$$$$$k~}}{1(1}))|I?*B$$@$$@kp@aqUcuj\){}]-_++_?{\(1{)1[+<_--__+_??1\1xqU\[_XhkhaaaaaaaokmO%$$$$$$$$[0m   
+[90m$$$$@$c`i::,lIi"'`^i$$$@B$WmUQ&*hLcur\)1[?-_++_?{r{f|[i;I+]-_~<><<++_??[)]+U*khaaaaaaaobmZm$$$$$$$$$[0m   
+[90m$$$$$$[:I::ii!;:"`" C$B@B$bczco#bqUvx/)1\xu//))\|vUnf{?<i~?_~!i<>>>ii>~-_-Q*khhaaaaaaoqOm0b$$$$$$$$$[0m   
+[90m$$$$$&l:,,I<i;",^''',#$BB$drnx0MqkQXu/11xYUZOLCmwqOc|xz\|?+~>!lii>i><+_+(mobhhhaaahohmOZZL#$$$$$$$$$[0m   
+[90m$$$$$w"``,!!l,,:"..` [$B%$*ffjrqoqqUxt(((){tnvczcj\)YOmn__<ii!l!>~-??-}ckhbhhhhaahobOOOOOQB$$$$$$$$$[0m   
+[90m$$$@$x ''I!I^''""'..` J$8%Bj|\jnkMbmzt|()))\///ffft/fxzx)+>>>>>~-]][|zpabbhhhhaaa*pQ00QQLO$$$$$$$$$$[0m   
+[90m$$$$$~.'";I;. .'''...'^k$W$Y])|tnb&hLj(()))(|/\|(|\tjrxcCc_+----[(nQbakbhhhhaaaaomLQLLLQUd$$$$$$$$$$[0m   
+[90m$$$$M`."I;;'.'.''''. '.!#B8o[[}(/nb#pvxf(){}{)|\|1}}{}?fJn??[{\cLdahkkhhaaaaaaoo0CQCCLCLYM$$$$$$$$$$[0m   
+[90m$$@$Q ^;;;^... . '''  ' I*%@u+}[{\fUhbLx|1}[??][}[]]]]??}[|nLqdhhkbkhhaaaaaaa*kCCQLCCCCCU@$$$$$$$$$$[0m   
+[90m$$$$\';;:^..   ...':` .` >WB#_?[][1)/UmQzf[]]?_-?]]]})fvLqbhhbbbbkhhaaaaoooa#kLLLCCCCCCY0$$$$$$$$$$$[0m   
+[90m$$$@<,:I" '    ...,""` .` <o$Oi]???][[)rXOmYr\(|\(fXZwbkkbddbbkkhhaaaoooooo#pUCCCCCCCCLXb$$$$$$$$$$$[0m   
+[90m$$$a,;:"`'^`.   .^^"^:` '^ IL$z![?---?--_-/uxuQZoMB$$oqdddbkkkhhhaaaoooooo#wUCCCCCCCJCCz&$$$$$$$$$$$[0m   
+[90m$@$U'I".'.'^`''.^""^"^,' .'  f%vi+--______+_]\up$$$$$8pbbkkhhhaaaoooo**o*MmUCLLCJJUUJJUU$$$$$$$$$$$$[0m   
+[90m$$$1`"`'^`' '''""^^^`^^"'  .. !CCt_i~~+_?1\/nCOM@$$$$8dhhhhhaaooooo****#*OJLOQCCUUUUUUzZ$$$$$$$$$$$$[0m   
+[90m$$%;'   .```..'^,"""`^^^""`  .  >xLX){{(\//nmwhW$$@$$abhhhaaoooo****#*MoQCQw0wm0LCJUUJch$$$$$$$$$$$$[0m   
+[90m$$d ..    .`':,`^`^^`^^``'^'. ..  "}\LM&pLQh#*WB@$$#/bokaaooo**###M##WhCL0wm0YQmZO0LLLz8$$$$$$$$$$$$[0m   
+[90m@$u '...    `^,,"^`^`^^"^```''.'..   `>\Jp#B$$$@$#ui"}k*ao**#M#aaah#&pQOZmZXQcJXZZOwQfX$$$$$$$$$$$$$[0m   
+[90m$$- ''.  ..`,```,"`^"^^`^^"^^^`'. ...     ^!-(UZx;'lil~b#o*#Mhda*#bLj>}nZQOmmLvLxrqC][0$$$$$$$$$$$$$[0m   
+[90m$&^ .  . .',`,`^`"`^^"""^`'^`"^.'........      ^  ^I;i:}8oM#phWWM%a];~>i!rZCL00uvCz]/ja$$$$$$$$$$$$$[0m   
+[90m$Z '     '^^"',`^`^`^'^^""^"`'...'''..''`'.`""'...",;I!"jBaw*&MM8oOj}<!<|tnxnUL0pv+/vxB$$$$$$$$$$$$$[0m   
+[90m$j '   .^`^^^`^^"^`'``^^'``",'.....'.```..'"`    ^,::;I!"xh#&M&8pCLOOUtuzcu/ccYO/+fuxY$$$$$$$$$$$$$$[0m   
+[90m$< .  .`^"`"'"`"^^'^'`'`'```...'.'...'`..''.    ',,,,:;;!^0@#&&0UCJUUJCYXUJUXJL1[rnujm$$$$$$$$$$$$$$[0m   
+[90mo`.. .'^'`^`^`"`^'``^`^'^''    . ..'`'. '``..  .""",,,,,;:"d@M0ULJJJUYXcucUCQY?}nnuvf*$$$$$$$$$$$$$$[0m   
+[90mC'````^'``"^"^^`^```^`'^'^. .      '`'.''`..''.^^",,,,,,:,';qLYCUUUYYXzccvnuU{1xruvuu@$$$$$$$$$$$$$$[0m   
+[90m-       .. ''''^`^^,`"`^^'...... .''. '^''...'``^":,:,"""^'.;XUYYYYXXzzcccunxnnxuuvxJ$$$$$$$$$$$$$$$[0m   
+[90mOUznf\1[-~!I"^'                  ''''`^^''''''^``^"^""^`^` '.>Uzzzzzzzzcvuuunxnuuuvfp$$$$$$$$$$$$$$$[0m   
+[90m$$$$$$$$$$@%&MokqZLYcxf(}?~iI,^'.             ..^"""`^`^`''''')YucccccvuuunnxnuuunutM$$$$$$$$$$$$$$$[0m   
+[90m$@@@@@$$$$$$$$$$$$$$$$$$$$$$@%&#abwOCYvr/)[-<iI;"^'           "xuuvccvuuuunxxnnnnc/}@$$$$$$$$$$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$@@@@@$$$$$$$$$$$$$$$$$$$$$$$B%W#hdwOCYur/)}-_fvnunxxrjrjjjjrxxx\:n$@$$$$$$$$$$$$$$[0m   
+[90m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@$$$$$$$$$$$$$$$$$$$$$@%8&M*abpqZQCUYzv(>-k$$$$$$$$$$$$$$$$[0m   
 ```
 
 <div align="center">
