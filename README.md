@@ -31,7 +31,7 @@
 <p><b>Cloud & Full-Stack Developer · B.Tech CS @ VIT Bhopal</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yasharyan90-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasharyan90)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YashAryan90-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YashAryan90)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YashAryan90-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.linkedin.com/in/yasharyan90/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-yasharyan90-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yasharyan90)
 [![Email](https://img.shields.io/badge/Email-yasharyanchunar90-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasharyanchunar90@gmail.com)
 
