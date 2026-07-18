@@ -1,5 +1,51 @@
 <div align="center">
 
+### 🖥️ Terminal Snapshot
+
+</div>
+
+```ansi
+[90m@@@@@@@@*+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;36myasharyan90[0m[37m@[0m[1;36mvit-bhopal[0m
+[90m@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [90m----------------------------[0m
+[90m@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mOS[0m[90m......................[0m Windows 11 / Ubuntu (WSL2)
+[90m@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mHost[0m[90m....................[0m VIT Bhopal (B.Tech CS)
+[90m@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mSpecialization[0m[90m..........[0m Cloud Computing & Automation
+[90m@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mKernel[0m[90m..................[0m Batch of 2028
+[90m@@@@@@@@@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@[0m   [1;33mIDE[0m[90m.....................[0m VS Code, IntelliJ IDEA
+[90m@@@@@@@@@@@@@%%%%%%%@@@@%%%@@@@@@@@@@@@@@@@@@@[0m   
+[90m@@@@@@@@@@@@@@@%%%#%@%#*+====+*#%@@@@@@@@@@@@@[0m   [1;33mLang.Core[0m[90m...............[0m Java, C++, Python, SQL
+[90m@@@@@@@@@@@@@@@@%*+#*++*=----::-=#@@@@@@@@@@@@[0m   [1;33mLang.Web[0m[90m................[0m React.js, Node.js, Express.js
+[90m@@@@@@@@@@@@@@@@@+*+-=**#+--:::--=*@@@@@@@@@@@[0m   [1;33mLang.Cloud[0m[90m..............[0m Docker, Kubernetes, AWS
+[90m@@@@@@@@@@@@@@@@@#+---+*#%*=:::::::-=+#@@@@@@@[0m   [1;33mLang.Human[0m[90m..............[0m English, Hindi
+[90m@@@@@@@@@@@@@@@@@*=--::--=+*=::::::--+%@@@%@@@[0m   
+[90m@@@@@@@@@@@@@@@@#+=-::::----:-*#*+++*%%%%%%@@@[0m   [1;33mContact.Email[0m[90m...........[0m yasharyanchunar90@gmail.com
+[90m@@@@---===+@@@%@*+=-:::-=-::::-+++=#%%%%%#%@@@[0m   [1;33mContact.LinkedIn[0m[90m........[0m linkedin.com/in/yasharyan90
+[90m@@@# .... :@@%+%#+==+==++-:::::::-*%%%%%##@@@@[0m   [1;33mContact.LeetCode[0m[90m........[0m leetcode.com/u/YashAryan90
+[90m@@@= ..... +@%=*%*===++++*-:.::-=#%%%%####@@@@[0m   [1;33mContact.Codeforces[0m[90m......[0m codeforces.com/profile/yasharyan90
+[90m@@@: ..    .#@==#%+--=====+--=+#%%%%%#***#@@@@[0m   
+[90m@@%...      :%*:-+*+-----=+*#%%%%%%%#****%@@@@[0m   [1;35mGitHub Stats[0m
+[90m@@+ .        :#=:--=+=*#%%%%%%%%%%%******@@@@@[0m   [1;33mRepos[0m[90m...................[0m [1;32mauto[0m  |  Stars: auto  |  Followers: auto
+[90m@@-           .==-:--+@@@%%%%%%%@%#*****#@@@@@[0m   [1;33mDSA Solved[0m[90m..............[0m [1;32m250+[0m (LeetCode + GeeksforGeeks)
+[90m@@.             :-+*#@@@#%%%%%@@%##*#***#@@@@@[0m   [1;33mCertifications[0m[90m..........[0m 5 (Google Cloud, Coursera, NPTEL)
+[90m@#                .:-++:.=@@%@%+=*#***++%@@@@@[0m   
+[90m@=                      ..*@@@#-:=+**=+*@@@@@@[0m   
+[90m@:                     ...:%@#*****+=++*@@@@@@[0m   
+[90m%.                     ... :****+++=+++#@@@@@@[0m   
+[90m+                      ..   -*++++++++=%@@@@@@[0m   
+[90m:                           .++++++++-+@@@@@@@[0m   
+[90m*++=--::....                 =+++++=-=*@@@@@@@[0m   
+[90m@@@@@@@@@@%%##**+==--::....  -+====-=-#@@@@@@@[0m   
+[90m@@@@@@@@@@@@@@@@@@@@@@@@%%##*###*+=+==@@@@@@@@[0m   
+```
+
+<div align="center">
+<sub>ASCII render generated from my own photo · GitHub stats fields auto-fill once repos go public (see setup notes below)</sub>
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hi%20There,%20I'm%20Yash%20Aryan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20Full%20Stack%20Developer%20|%20B.Tech%20CS%20@%20VIT%20Bhopal&descAlignY=52&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
